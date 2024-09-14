@@ -3,13 +3,13 @@
 ## Desc:
 This project implements an AI-powered medical assistant using a multi-agent AI model
 
-####Tech:
+#### Tech:
 **LlamaIndex**,
 **VectorDB**, 
 **LangChain**. 
 ***The assistant processes medical documents and clinical notes, extracting relevant insights and providing detailed opinions on the content. This application is designed to assist healthcare professionals in analyzing complex medical information efficiently.
 
-## Key Features
+## Key_Features
 - **Document Understanding**: Reads and analyzes medical documents and clinical notes.
 - **Insight Generation**: Extracts meaningful insights from unstructured medical data.
 - **Opinion Generation**: Provides relevant, context-aware opinions based on the content.
