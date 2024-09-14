@@ -4,9 +4,9 @@
 This project implements an AI-powered medical assistant using a multi-agent AI model
 
 #### Tech:
-**LlamaIndex**,
-**VectorDB**, 
-**LangChain**. 
+- **LlamaIndex
+- **VectorDB 
+- **LangChain 
 ***The assistant processes medical documents and clinical notes, extracting relevant insights and providing detailed opinions on the content. This application is designed to assist healthcare professionals in analyzing complex medical information efficiently.
 
 ## Key_Features
